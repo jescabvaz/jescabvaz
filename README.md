@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [Gestor de consultorios médicos](https://github.com/RodrigoToledo5/ConsultanceSpace)
 
-- 🌱 Estoy aprendiendo **Material IU**
+- 🌱 Estoy aprendiendo **Material UI**
 
 - 📝 CV [aqui](https://drive.google.com/file/d/1NzPPOR3gJU1C92PrXVRLo8bWHd1F0-wc/view?usp=sharing)
 
