@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Material IU**
 
-- 📝 CV [aqui](https://drive.google.com/file/d/1lkNjuLw4yYtjlJ0YN_q564-h_UVzubJP/view?usp=sharing)
+- 📝 CV [aqui](https://drive.google.com/file/d/1NzPPOR3gJU1C92PrXVRLo8bWHd1F0-wc/view?usp=sharing)
 
 - 💬 Preguntame sobre... **React, Redux, Express.**
 
