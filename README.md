@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jesuara Caballero</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en [Gestor de consultorios médicos](https://github.com/RodrigoToledo5/ConsultanceSpace)
+<!-- - 🔭 Actualmente estoy trabajando en [Gestor de consultorios médicos](https://github.com/RodrigoToledo5/ConsultanceSpace) -->
 
 - 🌱 Estoy aprendiendo **Angular**
 
